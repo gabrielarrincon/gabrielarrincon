@@ -1,13 +1,13 @@
 <div style= "display: inline_block">
 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=D7D7D7&width=720&height=50&lines=%3C+Welcome+To+Nathan's+Code+Area+%2F%3E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=D7D7D7&width=720&height=50&lines=%3C+Hello+World+%2F%3E)](https://git.io/typing-svg)
 
 </div>
 
 <div>
-    <a href="https://github.com/nathanrez">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanrez&layout=compact&langs_count=16&theme=dark"/>
+    <a href="https://github.com/gabrielarrincon">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielarrincon&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 ## ⚡ Skills
