@@ -20,8 +20,8 @@
 ## 👀 Studying | Interests
 <div>
   <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original-wordmark.svg"/>
-  <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />         
+  <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs.svg" />
+  <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java.svg" />         
 </div>
 
 ##
