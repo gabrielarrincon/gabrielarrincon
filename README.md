@@ -1,37 +1,78 @@
-<div style= "display: inline_block">
+# ☕ Gabriela Rincon
 
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=D7D7D7&width=720&height=50&lines=%3C+Hello+World+%2F%3E)](https://git.io/typing-svg)
+**`Desenvolvedora FullStack`**
 
-</div>
+Sou Gabriela Rodrigues Rincon, tenho 23 anos e sou de São Paulo, SP.
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninove, com foco em desenvolvimento, dados e tecnologia.
 
-<div>
-    <a href="https://github.com/gabrielarrincon">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielarrincon&layout=compact&langs_count=16&theme=dark"/>
-</div>
+ Tenho grande interesse por tecnologia, inovação e resolução de problemas.
+ Estou em busca de novos desafios que me permitam evoluir como profissional e aplicar na prática tudo o que venho aprendendo.
+ Sempre aberta a aprender, colaborar em projetos e contribuir com soluções criativas.
 
-## ⚡ Skills
-<div>
-  <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-</div>
+---
 
-## 👀 Studying | Interests
-<div>
-  <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original-wordmark.svg"/>
-  <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs.svg" />
-  <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java.svg" />         
-</div>
+### 🤖 Linguagens e Tecnologias
 
-##
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SQL Server" 
+    title="SQL Server"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" 
+/> 
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
-<div>
-  <a href="https://www.linkedin.com/in/gabriela-rincon-226ab0199?/"> 
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
-  </a>
-  
-  <a href = "mailto:gabriela.rrincon@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-</div>
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=gabrielarrincon&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielarrincon&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
