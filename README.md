@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Sou Gabriela Rodrigues Rincon, tenho 23 anos e sou de São Paulo, SP.
+Sou Gabriela Rodrigues Rincon, tenho 24 anos e sou de São Paulo, SP.
 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninove, com foco em desenvolvimento, dados e tecnologia.
 
  Tenho grande interesse por tecnologia, inovação e resolução de problemas.
