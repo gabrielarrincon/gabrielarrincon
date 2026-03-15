@@ -1,7 +1,7 @@
 <div style= "display: inline_block">
 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=D7D7D7&width=720&height=50&lines=%3C+Welcome+To+Gabriela+Code+Area+%2F%3E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=D7D7D7&width=720&height=50&lines=%3C+Welcome+To+Gabriela☕+Code+Area+%2F%3E)](https://git.io/typing-svg)
  
 **`Desenvolvedora FullStack`**
 
@@ -13,7 +13,7 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninove, co
  Sempre aberta a aprender, colaborar em projetos e contribuir com soluções criativas.
 
 ---
-☕
+
 ### 🤖 Linguagens e Tecnologias
 
 <div>
